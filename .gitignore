@@ -32,3 +32,4 @@ results.json
 submissions.json
 # Local Netlify folder
 .netlify
+.vercel
